@@ -11,6 +11,14 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nileshc_officials/)](https://www.instagram.com/nileshc_officials/)
 ---
 
+### Languages and Tools:
+<code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></code>
+<code><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></code>
+<code><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></code>
+
+---
+
 ### GitHub Stats :zap:
 
 ![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=NileshChoudhary111&show_icons=true)
