@@ -1,6 +1,7 @@
-###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Nilesh Choudhary
+###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Nilesh Choudhary!
 
-### Find and Follow me elsewhere
+### Find and Follow me elsewhere 🌎
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshchoudharyoffical/)](https://www.linkedin.com/in/nileshchoudharyoffical/)
 
 ### GitHub Stats :zap:
 
