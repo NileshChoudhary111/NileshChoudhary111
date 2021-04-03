@@ -6,7 +6,9 @@
 
 
 ### Find and Follow me elsewhere 🌎
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshchoudharyoffical/)](https://www.linkedin.com/in/nileshchoudharyoffical/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshchoudharyoffical/)](https://www.linkedin.com/in/nileshchoudharyoffical/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/nilesh.choudhary.5070/)](https://www.facebook.com/nilesh.choudhary.5070/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/nileshc_officials/)](https://www.instagram.com/nileshc_officials/)
 
 ### GitHub Stats :zap:
 
