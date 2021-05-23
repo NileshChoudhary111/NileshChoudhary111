@@ -33,6 +33,10 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
+![Visitor Count](https://profile-counter.glitch.me/{NileshChoudhary111}/count.svg)
+
+---
+
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
 ---
