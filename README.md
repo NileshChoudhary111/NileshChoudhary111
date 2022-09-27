@@ -27,6 +27,11 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 ---
 
+### Hacktoberfest Badges
+[![@nileshchoudhary111's Holopin board](https://holopin.io/api/user/board?user=nileshchoudhary111)](https://holopin.io/@nileshchoudhary111)
+
+---
+
 ### GitHub Stats :zap:
 
 ![Nilesh's github stats](https://github-readme-stats.vercel.app/api?username=NileshChoudhary111&show_icons=true)
